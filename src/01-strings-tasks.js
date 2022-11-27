@@ -204,6 +204,20 @@ function extractEmails(str) {
  */
 function getRectangleString(/* width, height */) {
   throw new Error('Not implemented');
+  /* let result = '';
+  const table = [['┌', '─', '┐\n'], ['│', ' ', '│\n'], ['└', '─', '┘\n']];
+
+  function conString(str, a, b) {
+    let one = 0;
+    let two = 0;
+  }
+
+  for (let i = 0; i <= height; i += 1) {
+    for (let y = 0; y <= width; y += 1) {
+    }
+  }
+
+  return result; */
 }
 
 
